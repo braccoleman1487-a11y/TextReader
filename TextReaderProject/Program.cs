@@ -45,11 +45,11 @@ namespace TextReaderProject
                     }
                 });
 
-                Console.WriteLine("\n[Press ESC at any time to cancel process]");
+               
 
                 // 1. Load the file (Cancellable)
                 await provider.LoadTextAsync(cts.Token);
-
+                Console.WriteLine("\n[Press ESC at any time to cancel process]");
                 // 2. Show the text line-by-line (Cancellable)
                 Console.WriteLine("\n--- Document Content ---");
                 await VisualEffects.DisplayLinesAsync(provider.RawText, 300, cts.Token);
