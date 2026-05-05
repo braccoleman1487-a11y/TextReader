@@ -1,0 +1,5 @@
+--- Analysis Results ---
+Word Count: 49
+Sentence Count: 6
+Most Used Word: 'the'
+------------------------

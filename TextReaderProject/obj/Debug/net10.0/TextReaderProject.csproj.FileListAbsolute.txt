@@ -1,0 +1,15 @@
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\bin\Debug\net10.0\TextReaderProject.exe
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\bin\Debug\net10.0\TextReaderProject.deps.json
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\bin\Debug\net10.0\TextReaderProject.runtimeconfig.json
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\bin\Debug\net10.0\TextReaderProject.dll
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\bin\Debug\net10.0\TextReaderProject.pdb
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.AssemblyInfoInputs.cache
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.AssemblyInfo.cs
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.sourcelink.json
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.dll
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\refint\TextReaderProject.dll
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.pdb
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\TextReaderProject.genruntimeconfig.cache
+C:\Users\Brandon\Desktop\GDDProject\TextReader\TextReaderProject\obj\Debug\net10.0\ref\TextReaderProject.dll

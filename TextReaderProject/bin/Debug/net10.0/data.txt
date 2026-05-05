@@ -1,4 +1,4 @@
 this is a test to show off my project. 
 The most used word will be pizza, and the project will even keep track of word count and sentences.
 How cool is that?
-Anyways, skewing the data to make the most used word pizza. Pizza, pizza , pizza, pizza, pizza. 
+Anyways, skewing the data to make the most used word pizza. Pizza pizza pizza pizza pizza,pizza pizza pizza 
