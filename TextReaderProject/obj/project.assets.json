@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Brandon\\source\\repos\\TextAnalyzer\\TextReader\\TextReaderProject\\TextReaderProject.csproj",
+      "projectUniqueName": "C:\\Users\\Brandon\\Desktop\\GDDProject\\TextReader\\TextReaderProject\\TextReaderProject.csproj",
       "projectName": "TextReaderProject",
-      "projectPath": "C:\\Users\\Brandon\\source\\repos\\TextAnalyzer\\TextReader\\TextReaderProject\\TextReaderProject.csproj",
+      "projectPath": "C:\\Users\\Brandon\\Desktop\\GDDProject\\TextReader\\TextReaderProject\\TextReaderProject.csproj",
       "packagesPath": "C:\\Users\\Brandon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Brandon\\source\\repos\\TextAnalyzer\\TextReader\\TextReaderProject\\obj\\",
+      "outputPath": "C:\\Users\\Brandon\\Desktop\\GDDProject\\TextReader\\TextReaderProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Brandon\\AppData\\Roaming\\NuGet\\NuGet.Config",

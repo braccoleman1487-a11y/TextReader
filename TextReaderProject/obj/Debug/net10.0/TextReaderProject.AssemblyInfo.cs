@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TextReaderProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f18a3396a5114cd49f1ebdb257ea6dcc3853e5f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92e8124390cc4ce672ddc7c14beaf247b239e69a")]
 [assembly: System.Reflection.AssemblyProductAttribute("TextReaderProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TextReaderProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
